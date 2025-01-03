@@ -7,3 +7,7 @@
   <a href="https://www.linkedin.com/in/jackkilburn/"><img height="100" src="/images/person_circular" alt="Website Icon" /></a>
   <a href="https://www.linkedin.com/in/jackkilburn/"><img height="100" src="/images/email_circular" alt="Email Icon" /></a>
 </p>
+
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-software-development)](https://github.com/anuraghazra/github-readme-stats)
+</p>
