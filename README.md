@@ -10,5 +10,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jack-software-development&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jack-software-development&layout=donut&theme=dracula" />
 </p>
