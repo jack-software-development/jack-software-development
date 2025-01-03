@@ -10,9 +10,6 @@
 
 <p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=jack-software-development&theme=dracula" />
-</p>
-
-<p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jack-software-development&layout=donut&theme=dracula" />
 </p>
 
