@@ -8,8 +8,10 @@
   <a href="https://www.linkedin.com/in/jackkilburn/"><img height="100" src="/images/email_circular" alt="Email Icon" /></a>
 </p>
 
-<p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=jack-software-development&theme=dracula" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jack-software-development&layout=donut&theme=dracula" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jack-software-development" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jack-software-development&layout=compact&langs_count=8&card_width=320" />
+</a>
 
