@@ -9,11 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=jack-software-development" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8" />
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" src="https://github-readme-stats.vercel.app/api?username=jack-software-development&theme=dracula" /></a>
+  <a href="https://github.com/anuraghazra/convoychat"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&theme=dracula" /></a>
 </p>
 
