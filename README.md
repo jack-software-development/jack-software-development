@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jack-software-development" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jack-software-development&theme=dracula" />
 </p>
