@@ -13,7 +13,7 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=jack-software-development" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=jack-software-development&layout=compact&langs_count=8" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jack-software-development&layout=compact&langs_count=8" />
   </a>
 </p>
 
